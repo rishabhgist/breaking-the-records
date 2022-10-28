@@ -4,6 +4,8 @@ Maria plays college basketball and wants to go pro. Each season she maintains a 
 number of times she breaks her season record for most points and least points in a game. Points scored in the first game
 establish her record for the season, and she begins counting from there.
 
+HackerRank - [Problem](https://www.hackerrank.com/challenges/breaking-best-and-worst-records)
+
 <b>Example</b>
 
 `scores = [12,24,10,24]`
