@@ -1,5 +1,6 @@
 package com.rgc;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class BreakingTheRecord {
@@ -9,5 +10,8 @@ public class BreakingTheRecord {
         int lowest = scores.get(0);
         // Storing score counts in the min, max variable
         int min = 0, max = 0;
+        // list of final score that will be returned with the function
+        List<Integer> finalScores = new ArrayList<>();
+
     }
 }
