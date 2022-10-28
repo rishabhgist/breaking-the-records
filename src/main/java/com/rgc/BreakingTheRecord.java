@@ -15,7 +15,16 @@ public class BreakingTheRecord {
 
         // Traversing through the scores list
         for (Integer score : scores) {
-
+            if ((score <= lowest) && (score != lowest)) { // Checking if the score is less the lowest not equals to lowest
+                lowest = score;
+                min++;
+            } else if ((score >= highest) && (score != highest)) { //Checking if the score is greater the highest not equals to highest
+                highest = score;
+                max++;
+            }
         }
+        // Storing the result into finalScore list
+        finalScores.add(max);
+        finalScores.add(min);
     }
 }

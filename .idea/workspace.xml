@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3219ce95-a0f8-4161-ae2c-f23481b834da" name="Changes" comment="added breakingRecordsMethod with list of scores Parameter" />
+    <list default="true" id="3219ce95-a0f8-4161-ae2c-f23481b834da" name="Changes" comment="added loop to travers through the scores list">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/rgc/BreakingTheRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rgc/BreakingTheRecord.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +71,35 @@
       <option name="project" value="LOCAL" />
       <updated>1666990148816</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added highest and lowest variable assigned with scores">
+      <created>1666990246374</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666990246374</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added highest and lowest variable assigned with scores">
+      <created>1666990321154</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666990321154</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Created list of final score that will be returned with the function and imported arrayList">
+      <created>1666990399301</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666990399301</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added loop to travers through the scores list">
+      <created>1666990468148</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1666990468148</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -88,7 +118,10 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="added BreakingTheRecord class" />
     <MESSAGE value="added breakingRecordsMethod with list of scores Parameter" />
-    <option name="LAST_COMMIT_MESSAGE" value="added breakingRecordsMethod with list of scores Parameter" />
+    <MESSAGE value="added highest and lowest variable assigned with scores" />
+    <MESSAGE value="Created list of final score that will be returned with the function and imported arrayList" />
+    <MESSAGE value="added loop to travers through the scores list" />
+    <option name="LAST_COMMIT_MESSAGE" value="added loop to travers through the scores list" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
