@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3219ce95-a0f8-4161-ae2c-f23481b834da" name="Changes" comment="Returning the finalScore list">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/rgc/BreakingTheRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rgc/BreakingTheRecord.java" afterDir="false" />
+    <list default="true" id="3219ce95-a0f8-4161-ae2c-f23481b834da" name="Changes" comment="reformatted and fixed alignments">
+      <change afterPath="$PROJECT_DIR$/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666990706694</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="reformatted and fixed alignments">
+      <created>1666991080114</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1666991080114</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -138,7 +147,9 @@
     <MESSAGE value="added if else to compare scores with highest and lowest" />
     <MESSAGE value="Storing the result into finalScore list" />
     <MESSAGE value="Returning the finalScore list" />
-    <option name="LAST_COMMIT_MESSAGE" value="Returning the finalScore list" />
+    <MESSAGE value="reformatted and fixed aligments" />
+    <MESSAGE value="reformatted and fixed alignments" />
+    <option name="LAST_COMMIT_MESSAGE" value="reformatted and fixed alignments" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
