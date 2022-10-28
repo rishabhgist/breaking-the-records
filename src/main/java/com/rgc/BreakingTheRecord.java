@@ -13,5 +13,9 @@ public class BreakingTheRecord {
         // list of final score that will be returned with the function
         List<Integer> finalScores = new ArrayList<>();
 
+        // Traversing through the scores list
+        for (Integer score : scores) {
+
+        }
     }
 }
